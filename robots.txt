@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mvias.github.io/VRw/sitemap.VRw.gz
